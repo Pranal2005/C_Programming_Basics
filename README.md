@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # C Programming
 
 This repository contains my C programming practice programs. I am learning fundamental C concepts through simple programs and practical examples.
@@ -32,3 +33,7 @@ To improve my programming skills and build a strong foundation in C programming.
 ## Author
 
 C Programming Learner
+=======
+# C_Programming_Basics
+C programming practice programs covering arrays, array initialization, memory addresses, pointer arithmetic, sizeof() operator, and array element assignment.
+>>>>>>> b6648d8680229432bad2ac6793acfc250c411e81
