@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# C Programming
+# C Programming Basics
 
-This repository contains my C programming practice programs. I am learning fundamental C concepts through simple programs and practical examples.
+A collection of C programming practice programs covering arrays, array initialization, memory addresses, pointer arithmetic, the `sizeof()` operator, and array element assignment.
 
 ## Topics Covered
 
@@ -18,22 +17,14 @@ This repository contains my C programming practice programs. I am learning funda
 |---|---|---|
 | 1 | `01_Array_Initialization.c` | Understanding default initialization of array elements |
 | 2 | `02_Array_Addresses.c` | Understanding array addresses and pointer arithmetic |
-| 3 | `03_Array_Sizeof.c` | Using the `sizeof()` operator with arrays |
+| 3 | `03_Array_Sizeof.c` | Using the `sizeof()` operator |
 | 4 | `04_Array_Initialization_Practice.c` | Practicing array initialization |
 | 5 | `05_Array_Element_Assignment.c` | Assigning values to array elements individually |
 
-## Language Used
+## Language
 
-- C Programming
+C Programming
 
-## Purpose
+## Goal
 
-To improve my programming skills and build a strong foundation in C programming.
-
-## Author
-
-C Programming Learner
-=======
-# C_Programming_Basics
-C programming practice programs covering arrays, array initialization, memory addresses, pointer arithmetic, sizeof() operator, and array element assignment.
->>>>>>> b6648d8680229432bad2ac6793acfc250c411e81
+To strengthen my C programming fundamentals through hands-on practice.
