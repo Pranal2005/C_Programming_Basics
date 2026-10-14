@@ -60,3 +60,54 @@ To strengthen my C programming fundamentals through hands-on practice.
 ---
 
 *This repository contains my C programming practice programs as I learn and improve my programming skills.*
+
+
+# C Programming Basics 🚀
+
+Welcome to my **C Programming Basics** repository!
+
+This repository contains my daily C programming practice as I learn the fundamentals of the C language and improve my problem-solving skills.
+
+## 📚 Programs Covered
+
+### Addition Programs
+
+1. **Addition Using a Function** — Accepts two numbers and returns their sum.
+2. **Addition Using Integer Variables** — Adds two integer values.
+3. **Addition Using Float Variables** — Adds two floating-point numbers.
+4. **Global and Local Variables** — Demonstrates variable scope in C.
+5. **Addition Using User Input** — Accepts two numbers using `scanf()` and displays their sum.
+6. **Addition Using a Void Function** — Calculates and prints the sum inside a `void` function.
+7. **Addition Using a Return Function** — Returns the calculated sum to the calling function.
+
+## 🛠️ Concepts Learned
+
+- Variables and data types
+- Integer and floating-point numbers
+- Local and global variables
+- Input using `scanf()`
+- Output using `printf()`
+- Functions and parameters
+- Return values and `void` functions
+- Basic arithmetic operations
+
+## 💻 Technologies Used
+
+- **Programming Language:** C
+- **Code Editor:** Visual Studio Code
+- **Compiler:** GCC
+- **Version Control:** Git and GitHub
+
+## 🎯 My Goal
+
+My goal is to strengthen my C programming fundamentals through daily practice, write clean code, and develop strong problem-solving skills.
+
+## 📈 Learning Progress
+
+- **Day 1:** Practiced seven addition programs covering variables, user input, and functions.
+
+I will continue adding new C programs as I learn more concepts.
+
+---
+
+⭐ Thank you for visiting my repository!
