@@ -28,3 +28,35 @@ C Programming
 ## Goal
 
 To strengthen my C programming fundamentals through hands-on practice.
+
+
+## Array and Pointer Programs
+
+### 1. Array and Pointer Notation
+**File:** `Array_And_Pointer_Notation.c`
+
+**Topics Covered:**
+- Array initialization
+- Array indexing
+- Relationship between arrays and pointers
+- Accessing elements using pointer notation
+- Expressions such as `Arr[i]`, `*(Arr + i)`, `*(i + Arr)` and `i[Arr]`
+
+### 2. Pointer Arithmetic
+**File:** `Pointer_Arithmetic.c`
+
+**Topics Covered:**
+- Pointer declaration and initialization
+- Pointer addition and subtraction
+- Pointer arithmetic using arrays
+- Difference between two pointers
+- Printing pointer addresses using `%p`
+
+### Key Learnings
+- Understand how array elements can be accessed using pointer notation.
+- Learn how pointer arithmetic works in C.
+- Understand pointer differences in terms of array elements.
+
+---
+
+*This repository contains my C programming practice programs as I learn and improve my programming skills.*
