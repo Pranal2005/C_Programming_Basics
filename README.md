@@ -108,6 +108,54 @@ My goal is to strengthen my C programming fundamentals through daily practice, w
 
 I will continue adding new C programs as I learn more concepts.
 
----
+---# C Programming Basics 🚀
+
+This repository contains my daily C programming practice as I learn C language fundamentals and improve my problem-solving skills.
+
+## Programs Covered
+
+### 1. Variables and Addition
+- Addition using integer and float variables
+- Local and global variables
+- User input using `scanf()`
+- Functions with parameters and return values
+- Void functions
+
+### 2. Arrays and Pointers
+- Accessing array elements using pointers
+- Pointer increment and decrement
+- Pointer arithmetic
+- Pointer addition and subtraction
+- Moving pointers forward and backward through arrays
+
+## Concepts Learned
+
+- Variables and data types
+- `printf()` and `scanf()`
+- Functions and return values
+- Local and global variables
+- Arrays and pointers
+- Pointer dereferencing
+- Pointer arithmetic
+
+## Technologies Used
+
+- C Programming
+- GCC Compiler
+- Visual Studio Code
+- Git and GitHub
+
+## Learning Progress
+
+- **Day 1:** Practiced addition, variables, user input, and functions.
+- **Day 2:** Practiced array pointers and pointer arithmetic.
+
+## Goal
+
+To strengthen my C programming fundamentals through regular practice and develop better coding and problem-solving skills.
+
+More programs will be added as I continue learning.
+
+⭐ Thanks for visiting my repository!
 
 ⭐ Thank you for visiting my repository!
